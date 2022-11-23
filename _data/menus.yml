@@ -4,9 +4,9 @@
 - default: menu_category
   url: 'categories'
 
-- title: 'Jekyll Paper for Github'
-  absoluteUrl: true
-  url: 'https://github.com/ghosind/Jekyll-Paper-Github'
+- title: '收藏'
+  # absoluteUrl: true 绝对网址
+  url: 'collection'
 
 - default: menu_about
   url: 'about'
