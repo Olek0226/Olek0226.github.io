@@ -100,14 +100,14 @@
 
 
 /* global && write area */
-#write {
+html {
   position: static;
   width: 90%;
   max-width: 900px;
   line-height: 1.6;
   padding: 36px 0 70px;
 }
-html, body, #write {
+html, body {
   background: var(--white-color);
   font-family: 'SourceHanSansSC','JetBrains Mono', -apple-system, sans-serif;
 }
