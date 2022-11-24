@@ -107,7 +107,7 @@
   line-height: 1.6;
   padding: 36px 0 70px;
 }
-html, body {
+html, body, #write {
   background: var(--white-color);
   font-family: 'SourceHanSansSC','JetBrains Mono', -apple-system, sans-serif;
 }
@@ -249,7 +249,7 @@ sup.md-footnote {
 }
 
 /* inline code */
-code {
+code{
   margin: 0 2px;
   padding: 0px 4px;
   font-size: 0.95rem;
@@ -296,10 +296,10 @@ p>.md-image:only-child:not(.md-img-error) img, p>img:only-child {
 }
 
 /* underline */
-u {
+#write u {
   text-decoration: none;
 }
-u>span {
+#write u>span {
   border-bottom: 1px solid;
 }
 
