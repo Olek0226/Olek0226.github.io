@@ -249,7 +249,7 @@ sup.md-footnote {
 }
 
 /* inline code */
-#write code{
+code {
   margin: 0 2px;
   padding: 0px 4px;
   font-size: 0.95rem;
@@ -296,10 +296,10 @@ p>.md-image:only-child:not(.md-img-error) img, p>img:only-child {
 }
 
 /* underline */
-#write u {
+u {
   text-decoration: none;
 }
-#write u>span {
+u>span {
   border-bottom: 1px solid;
 }
 
