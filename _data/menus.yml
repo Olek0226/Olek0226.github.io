@@ -11,5 +11,8 @@
 - title: '自说自话'
   url: 'zszh'
 
+- title: '计划'
+  url: 'plan'
+
 - default: menu_about
   url: 'about'
