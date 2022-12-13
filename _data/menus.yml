@@ -8,7 +8,7 @@
   # absoluteUrl: true 绝对网址
   url: 'collection'
 
-  - title: '自说自话'
+- title: '自说自话'
   url: 'zszh'
 
 - default: menu_about
