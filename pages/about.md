@@ -6,6 +6,8 @@ permalink: /about/
 
 # 关于我
 
+## 个人信息
+
 姓名：陈曦
 电话：17683723310
 邮箱：learner396_chenxi@foxmail.com
