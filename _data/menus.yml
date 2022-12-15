@@ -4,6 +4,9 @@
 - default: menu_category
   url: 'categories'
 
+- title: 'Android'
+  url: 'android'
+
 - title: '收藏'
   # absoluteUrl: true 绝对网址
   url: 'collection'
