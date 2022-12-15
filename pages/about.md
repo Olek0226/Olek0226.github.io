@@ -14,4 +14,4 @@ permalink: /about/
 
 > 种一棵树最好的时间是十年前，其次是现在。
 
-[](https://w.wallhaven.cc/full/zy/wallhaven-zygeko.jpg)
+<img src="https://w.wallhaven.cc/full/zy/wallhaven-zygeko.jpg" style="zoom:33%;" />
