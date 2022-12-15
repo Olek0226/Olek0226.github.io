@@ -363,6 +363,7 @@ blockquote {
 blockquote p {
   color: var(--quote-text-color);
   margin: 0 ;
+  font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
 }
 blockquote::before {
   content: '';
