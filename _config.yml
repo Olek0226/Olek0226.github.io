@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
+title: 寒海紫鸾
+subtitle: 痛风养成中~
 description:
-author: John Doe
+author: 陈曦
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: 'https://olek0226.github.io/'
 baseurl:
 permalink: pretty
 
@@ -50,6 +50,7 @@ kramdown:
     input: GFM
 
 # Default Attributes
+# 默认属性
 ## Docs: https://jekyllrb.com/docs/configuration/#front-matter-defaults
 defaults:
   -
@@ -118,8 +119,8 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
-  #about: /about/
+  categories: /categories/
+  about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -223,7 +224,7 @@ font:
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: true
+  enable: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
@@ -237,14 +238,16 @@ social_icons:
 
 
 # Table Of Contents in the Sidebar
+# 侧边栏中的目录
 toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: true
+  # 自动将列表编号添加到目录。
+  number: false
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
-  wrap: false
+  wrap: true
 
 
 # Creative Commons 4.0 International License.
@@ -256,7 +259,7 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
+  position: right
   #position: right
 
   # Sidebar Display, available value:
@@ -270,14 +273,17 @@ sidebar:
   #display: remove
 
   # Sidebar offset from top menubar in pixels.
+  # 侧边栏与顶部菜单栏的偏移量（以像素为单位）。
   offset: 12
   offset_float: 0
 
   # Back to top in sidebar
-  b2t: false
+  # 返回侧边栏顶部
+  b2t: true
 
   # Scroll percent label in b2t button
-  scrollpercent: false
+  # 在 b2t 按钮中滚动百分比标签
+  scrollpercent: true
 
 
 # Blog rolls
