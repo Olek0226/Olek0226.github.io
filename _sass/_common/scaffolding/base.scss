@@ -1,4 +1,7 @@
-
+@font-face{
+  font-family: 'SHS'; 
+  src: url('./forest/SourceHanSansSC-Regular.otf');
+}
 ::selection {
   background: $selection-bg;
   color: $selection-color;

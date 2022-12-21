@@ -186,8 +186,8 @@ font:
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
-    external: true
-    family:
+    external: false
+    family: SHS
 
   # Font settings for Logo
   # Fallback to `global` font settings.
