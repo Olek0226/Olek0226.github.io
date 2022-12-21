@@ -7,7 +7,7 @@
 title: 寒海紫鸾
 subtitle: 痛风养成中~
 description:
-author: 陈曦
+author: Olek
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -80,15 +80,15 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: ""
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+# rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2022
 
 # icon between year and author @Footer
 authoricon: heart
